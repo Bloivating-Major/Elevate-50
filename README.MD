@@ -1,8 +1,15 @@
 # Elevate 50 🚀
 
-## Welcome to Elevate 50! 💪🔥
+## My Solutions to LeetCode & DSA Questions 💡
 
-This is a 50-day challenge where I solve LeetCode and DSA questions daily to elevate myself as a programmer using JavaScript. Each day, I document my progress, solutions, and learnings. Follow along and level up with me! 🚀
+A 50-day challenge where I solve LeetCode and DSA problems in JavaScript to elevate my programming skills. Each day has its own folder with solutions and explanations.
+
+#### Difficulty Levels
+
+🟢 Easy  
+🔵 Medium  
+🔴 Hard  
+⚫️ Very Hard
 
 ## 📅 Progress Tracker
 
@@ -10,7 +17,15 @@ This is a 50-day challenge where I solve LeetCode and DSA questions daily to ele
 |------|---------------------|
 | [Day 1](./Day1/README.md)  | 🔗  |
 
-(Click on a day to view the solved questions and explanations.)
+## 📌 Questions & Solutions
+
+| Question | Difficulty | Category | Approach | Good to Review |
+|----------|------------|------------|------------|----------------|
+| [Example Question](/Day1/example-question.md) | 🟢 | Arrays | Hash Table, Two Pointers | ✅ |
+| [Another Question](/Day2/another-question.md) | 🔵 | Strings | Sliding Window | |
+| [Hard Question](/Day10/hard-question.md) | 🔴 | Graphs | DFS, BFS | ✅ |
+
+(Click on a question to see the detailed explanation, approaches, and solution.)
 
 ## 🎯 Motivation & Goals
 - Improve problem-solving skills 💡
@@ -29,3 +44,4 @@ This is a 50-day challenge where I solve LeetCode and DSA questions daily to ele
 - Solutions are written in JavaScript with explanations and code snippets.
 
 Let's get started! 🚀🔥
+
