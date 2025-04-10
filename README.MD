@@ -15,17 +15,11 @@ A 50-day challenge where I solve LeetCode and DSA problems in JavaScript to elev
 
 | Day  | Questions Solved 📌 |
 |------|---------------------|
-| [Day 1](./Day1/README.md)  | 🔗  |
+| [Day 1](./Day%2001/Day1.md)  | [🔗](./Day%2001/Day1.md)  |
+| [Day 2](./Day%2002/Day2.md)  | [🔗](./Day%2002/Day2.md)  |
+| [Day 3](./Day%2003/Day3.md)  | [🔗](./Day%2003/Day3.md)  |
+| [Day 4](./Day%2004/Day4.md)  | [🔗](./Day%2004/Day4.md)  |
 
-## 📌 Questions & Solutions
-
-| Question | Difficulty | Category | Approach | Good to Review |
-|----------|------------|------------|------------|----------------|
-| [Example Question](/Day1/example-question.md) | 🟢 | Arrays | Hash Table, Two Pointers | ✅ |
-| [Another Question](/Day2/another-question.md) | 🔵 | Strings | Sliding Window | |
-| [Hard Question](/Day10/hard-question.md) | 🔴 | Graphs | DFS, BFS | ✅ |
-
-(Click on a question to see the detailed explanation, approaches, and solution.)
 
 ## 🎯 Motivation & Goals
 - Improve problem-solving skills 💡
