@@ -1,3 +1,5 @@
+Question Link -> https://leetcode.com/problems/majority-element/
+
 # 🗳️ Moore’s Voting Algorithm – Majority Element (> n/2 times)
 
 ## 📘️ Problem Statement
