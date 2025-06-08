@@ -19,7 +19,8 @@ A 50-day challenge where I solve LeetCode and DSA problems in JavaScript to elev
 | [Day 2](./Day%2002/Day2.md)  | [🔗](./Day%2002/Day2.md)  |
 | [Day 3](./Day%2003/Day3.md)  | [🔗](./Day%2003/Day3.md)  |
 | [Day 4](./Day%2004/Day4.md)  | [🔗](./Day%2004/Day4.md)  |
-
+| [Day 5](./Day%2005/Day5.md)  | [🔗](./Day%2005/Day5.md)  |
+| [Day 6](./Day%2006/Day6.md)  | [🔗](./Day%2006/Day6.md)  |
 
 ## 🎯 Motivation & Goals
 - Improve problem-solving skills 💡
